@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+
+div {
+  background-color: blue;
+  margin-top: 3rem;
+  font-size: 1.5rem;
+}
+
+button {
+  cursor: pointer;
+  background: #e5e7eb;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid black;
+  margin: 2rem;
+  font-size: 1rem;
+}
+
+li {
+  liststyle: none;
+  padding: 1rem;
+  border: 1px solid #d1d5db;
+  width: 80%;
+  border-radius: 0.5rem;
+  margin: 1rem;
+}
